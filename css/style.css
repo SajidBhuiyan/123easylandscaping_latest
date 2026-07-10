@@ -633,7 +633,7 @@ input.button {border: 0px;}
     17- Page Title
 -------------------------------------------------------------------*/
 
-.page_title { background: url(https://via.placeholder.com/1920x300)  no-repeat; position: relative;    background-size: 100% 100%; margin-bottom: 94px; text-align: center;}
+.page_title { background: url("../images/title_bg.jpg")  no-repeat; position: relative;    background-size: 100% 100%; margin-bottom: 94px; text-align: center;}
 .page_title .layer{position: static; padding: 96px 0px; }
 
 .page_title h1 {font-size: 48px; color: #fff; font-weight: 900; display: inline-block; margin-bottom: 13px; text-transform: uppercase;}
